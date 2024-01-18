@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: EFP Tools
 subtitle: EFP Tools
 cover-img: "assets/img/mechanic.jpg"
