@@ -20,7 +20,7 @@ author: EFPTools
 ###############################################
 
 navbar-links:
-  Inicio: "inicio"
+  Inicio: "index"
   Productos:
     - Maquetas formativas: "maquetas"
     - Herramientas y carros: "herramientas"
