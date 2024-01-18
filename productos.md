@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Sobre nosotros
+title: Productos
 subtitle: ...
 ---
-

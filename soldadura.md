@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Sobre nosotros
+title: Soldadura
 subtitle: ...
 ---
-
