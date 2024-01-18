@@ -21,7 +21,7 @@ author: EFPTools
 
 navbar-links:
   Inicio: "inicio"
-  Productos: "productos"
+  Productos:
     - Maquetas formativas: "maquetas"
     - Herramientas y carros: "herramientas"
     - Carrocería: "carroceria"
