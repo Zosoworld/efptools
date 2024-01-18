@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Herramientas
-subtitle: ...
+subtitle: Herramientas
+cover-img: "assets/img/bonnet.jpg"
 ---

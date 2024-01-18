@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Maquetas
-subtitle: ...
+subtitle: Maquetas
+cover-img: "assets/img/engine.jpg"
 ---

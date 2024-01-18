@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Carrocería
-subtitle: ...
+subtitle: Carrocería
+cover-img: "assets/img/chassis.jpg"
 ---

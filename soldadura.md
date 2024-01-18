@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Soldadura
-subtitle: ...
+subtitle: Soldadura
+cover-img: "assets/img/underside.jpg"
 ---
