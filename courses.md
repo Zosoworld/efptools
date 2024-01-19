@@ -2,7 +2,7 @@
 layout: page
 title: Cursos
 subtitle: Cursos de especialización
-cover-img: "assets/img/movement.jpg"
+cover-img: "assets/img/s_movement.jpg"
 ---
 
 # CURSOS DE ESPECIALIZACIÓN
